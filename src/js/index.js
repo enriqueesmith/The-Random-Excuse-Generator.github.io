@@ -8,7 +8,7 @@ document.querySelector("#btn").addEventListener("click", () => {
 
 let randomExcuse = () => {
   let who = ["The dog", "My granma", "His turtle", "My bird"];
-  let what = ["ate", "pissed on", "crushed", "broke"];
+  let what = ["ate", "stepped on", "crushed", "broke"];
   let thing = ["my computer", "my car", "my homework", "my food"];
   let when = [
     "before the class",

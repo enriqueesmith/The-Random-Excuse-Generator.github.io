@@ -1,3 +1,17 @@
+#The Random Excuse Generator
+
+A random excuse generator built using HTML, CSS and Javascript. Once the user clicks the button "Generate new excuse", the application returns a different random excuse everytime. These excuses are generated from a set list of words in the JavaScript file.
+
+See the Live Demo here: 
+
+
+
+
+
+
+
+
+
 # Hello World with Vanilla JS
 
 > Requirements: Make sure you have node version 8
